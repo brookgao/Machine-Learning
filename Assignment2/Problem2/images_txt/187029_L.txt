@@ -1,0 +1,5 @@
+offset: 3
+sx: 321
+sy: 481
+stepsize: 7
+winsize: 7
